@@ -1,3 +1,5 @@
+
 Fitur login sedang dikembangkan
 Ini update dari fitur login oleh User A
-Baris konflik dari fitur-login
+
+Ini baris dari fitur profil oleh User B
